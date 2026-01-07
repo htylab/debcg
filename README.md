@@ -20,7 +20,7 @@ pip install "git+https://github.com/your-username/debcg.git#egg=debcg[deep]"
 ### From source
 
 ```bash
-git clone https://github.com/your-username/debcg.git
+git clone https://github.com/htylab/debcg.git
 cd debcg
 pip install -e .           # Basic
 pip install -e ".[deep]"   # With PyTorch
@@ -118,7 +118,7 @@ If you use this package, please cite:
 }
 ```
 
-## References
+## Additional References
 
 - **OBS/DMH**: Python reimplementations based on [fhlin_toolbox](https://github.com/fahsuanlin/fhlin_toolbox)
 - **DMH paper**: Lee et al. (2022). Human Brain Mapping, 43(14), 4444–4457. [DOI](https://doi.org/10.1002/hbm.25965)
